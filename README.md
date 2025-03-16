@@ -25,7 +25,7 @@ A **serverless password generator** that securely creates random passwords and s
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/aws-password-generator.git
+git clone https://github.com/pugazh000/aws-password-generator.git
 cd aws-password-generator
 ```
 
